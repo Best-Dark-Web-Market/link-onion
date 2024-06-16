@@ -35,28 +35,33 @@
     <h2>A Look into Dark Web’s Notorious Markets</h2>
     <p>This overview of the dark web’s top markets reveals a constantly evolving world of illegal trade, highlighting the ongoing battle between cybercriminals and law enforcement.</p>
     <div class="market">
-        <h2>1. Abacus Market</h2>
+        <h2>1. Alphabay Market</h2>
+        <a href="http://alphaa3u7wqyqjqctrr44bs76ylhfibeqoco2wyya4fnrjwr77x2tbqd.onion" rel="nofollow">Alphabay Market</a>
         <p>Emerging in September 2021 after AlphaBay’s closure, Abacus Market quickly became notorious on the Tor network. It offers over 40,000 products in categories such as Drugs & Chemicals (29,031), Counterfeit items (298), Digital Products (3,348), Fraud (5,470), and more. Abacus Market prioritizes user security with features like a bug bounty program and Two-Factor Authentication (2FA). It uses Bitcoin and Monero for transactions and is valued at approximately $15 million.</p>
     </div>
     <div class="market">
-        <h2>2. Russian Market</h2>
-        <p>Since February 2019, Russian Market has facilitated illegal sales through Tor and the clear web, focusing on Personally Identifiable Information (PII) data. It offers various illicit goods, including stolen credit cards and compromised PayPal accounts, with transactions conducted using cryptocurrencies like Bitcoin, Litecoin, and Ethereum.</p>
+        <h2>2. Asap Market</h2>
+        <a href="http://asap4g7boedkl3fxbnf2unnnr6kpxnwoewzw4vakaxiuzfdo5xpmy6ad.onion" rel="nofollow">Asap Darknet Market</a> 
+        <p>Since February 2019, Asean Market has facilitated illegal sales through Tor and the clear web, focusing on Personally Identifiable Information (PII) data. It offers various illicit goods, including stolen credit cards and compromised PayPal accounts, with transactions conducted using cryptocurrencies like Bitcoin, Litecoin, and Ethereum.</p>
     </div>
     <div class="market">
-        <h2>3. BriansClub</h2>
-        <p>Founded around 2014 by a threat actor named Brian, BriansClub is infamous for trading stolen credit cards and personal identity information. Operating on both the surface web and the Tor network, it supports various cryptocurrencies and offers products like Dumps, CVV2 codes, and Fullz.</p>
+        <h2>3. Bohemia Market</h2>
+        <a href="http://bohemiabmgo5arzb6so564wzdsf76u6rm4dpukfcbf7jyjqgclu2beyd.onion" rel="nofollow">Bohemia dark Market</a>
+        <p>Founded around 2014 by a threat actor named Brian, Bohemia is infamous for trading stolen credit cards and personal identity information. Operating on both the surface web and the Tor network, it supports various cryptocurrencies and offers products like Dumps, CVV2 codes, and Fullz.</p>
     </div>
     <div class="market">
-        <h2>4. Torzon Market</h2>
-        <p>Launched in September 2022, Torzon Market operates on the Tor network with 11,647 illegal products in categories like Drugs, Fraud, and Hacking. It imports vendor feedback from other markets for transparency and offers a premium account feature for exclusive benefits. Its valuation is around $15 million.</p>
+        <h2>4. Torrez Market</h2>
+        <a href="http://yxuy5oard6zn25hgjmtp3fmndimfwljhw44u4jappxthbfbli6ycyrqd.onion" rel="nofollow">Torrez Market</a>
+        <p>Launched in September 2022, Torrez Market operates on the Tor network with 11,647 illegal products in categories like Drugs, Fraud, and Hacking. It imports vendor feedback from other markets for transparency and offers a premium account feature for exclusive benefits. Its valuation is around $15 million.</p>
     </div>
     <div class="market">
-        <h2>5. FreshTools</h2>
-        <p>Founded in 2019, FreshTools specializes in selling stolen accounts on the clear web. It lists over 800,000 products, including Leads, Webmail, cPanels, and RDPs. Transactions are conducted using USDT, BTC, ZMR, LTC, BitcoinCash, and PerfectMoney.</p>
+        <h2>5. Incognito Market</h2>
+        <p>Founded in 2019, Incognito specializes in selling stolen accounts on the clear web. It lists over 800,000 products, including Leads, Webmail, cPanels, and RDPs. Transactions are conducted using USDT, BTC, ZMR, LTC, BitcoinCash, and PerfectMoney.</p>
     </div>
     <div class="market">
-        <h2>6. Cypher Marketplace</h2>
-        <p>Established in February 2020, Cypher Marketplace operates on the Tor network with over 12,000 products in categories such as Counterfeits, Credit cards, and Drugs. It supports Bitcoin and Monero for transactions and is valued at $15 million.</p>
+        <h2>6. Tor2door Market</h2>
+        <a href="http://d5lqhle57oi6pcdt254dspanbqjivpufslqvtbrwllth2iapipjq7vid.onion" rel="nofollow">Tor2door Market</a>
+        <p>Established in February 2020, Tor2door Marketplace operates on the Tor network with over 12,000 products in categories such as Counterfeits, Credit cards, and Drugs. It supports Bitcoin and Monero for transactions and is valued at $15 million.</p>
     </div>
     <div class="market">
         <h2>7. MGM Grand Market</h2>
